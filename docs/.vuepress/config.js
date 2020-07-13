@@ -1,6 +1,7 @@
 module.exports = {
   title: 'ZY PLAYER',
   description: 'ZY PLAYER 文档',
+  base: '/doc/',
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
