@@ -1,0 +1,12 @@
+{
+  "name": "zy-doc",
+  "version": "0.0.1",
+  "description": "zy doc",
+  "main": "index.js",
+  "author": "Hunlongyu",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs"
+  }
+}
